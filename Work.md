@@ -1,7 +1,7 @@
 ---
-title: /
-layout: home
-permalink: /
+layout: page
+title: /Work
+permalink: /Work/
 ---
 # Work
 I've ordered my work into individual years and projects.
