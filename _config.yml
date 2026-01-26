@@ -2,10 +2,12 @@ remote_theme: b2a3e8/jekyll-theme-console
 title: Khaelis' Portfolio
 description: Continuously updated page of my work.
 
-header_pages:
-  - About.md
+exclude:
+  - README.md
 
 style: dark
+
+title-on-all-pages: true
 
 footer: 'follow me on <a href="https://x.com/roland42589">X</a>'
 
