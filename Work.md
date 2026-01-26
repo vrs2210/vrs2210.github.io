@@ -1,3 +1,8 @@
+---
+title: /
+layout: home
+permalink: /
+---
 # Work
 I've ordered my work into individual years and projects.
 ## 2026
