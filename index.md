@@ -1,8 +1,7 @@
 ---
-title: /
+title: /Index
 layout: home
-permalink: /
+permalink: /Index
 ---
-
-# Welcome
-Bla bla ba whatever, go to another page.
+Welcome!
+Click any of the pages above, and you can come back to this page by pressing the /Index button!
