@@ -12,6 +12,7 @@ The spin-off will be inspired mainly by the webtoon; some story elements might e
 I am so far alone on this project, and have not created a map as of yet.
 **Experiment for the style of building.**
 <img width="783" height="513" alt="image" src="https://github.com/user-attachments/assets/43828c6d-aa1f-4691-9627-ab0717d07461" />
+
 **Base magic circles and curse cubes.**
 
 <img width="836" height="334" alt="image" src="https://github.com/user-attachments/assets/07965efa-6add-470c-88cf-db6ba6ac610f" />
