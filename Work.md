@@ -10,9 +10,9 @@ I've ordered my work into individual years and projects.
 I've read through the Arcane Adventures Webtoon and was really interested in the storytelling. I wasn't around when Arcane Adventures was an active game. I am looking to  the Webtoon for content rather than videos of the game.
 The spin-off will be inspired mainly by the webtoon; some story elements might even incorporate some of its lore, but it will have its own story and self-made mechanics.
 I am so far alone on this project, and have not created a map as of yet.
-#### Experiment for the style of building.
+**Experiment for the style of building.**
 <img width="783" height="513" alt="image" src="https://github.com/user-attachments/assets/43828c6d-aa1f-4691-9627-ab0717d07461" />
-#### Base magic circles and curse cubes.
+**Base magic circles and curse cubes.**
 <img width="836" height="334" alt="image" src="https://github.com/user-attachments/assets/07965efa-6add-470c-88cf-db6ba6ac610f" />
 ## 2025
 ### Nuevo Paraíso [ABANDONED]
