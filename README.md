@@ -4,7 +4,6 @@
 ## [Journey](https://www.roblox.com/games/80135353007340/Journey)
 A game made in a few hours then improved over a few days idly, it's a game where all you do is drive anywhere forever, it was an experiment to see if I properly knew chunking, constraints, optimizations and replication.
 <img src="Bike_1.png">
-
-[[Bike_2.png]]
-[[Bike_3.png]]
-[[Gun.png]]
+<img src="Bike_2.png">
+<img src="Bike_3.png">
+<img src="Gun.png">
