@@ -6,10 +6,26 @@ My goal is to strive to create a game that will have more than one-hundred playe
 # Here's How My Work Looks:
 ## [Journey](https://www.roblox.com/games/80135353007340/Journey)
 A game made in a few hours then improved over a few days idly, it's a game where all you do is drive anywhere forever, it was an experiment to see if I properly knew chunking, constraints, optimizations and replication.
-<img src="Bike_1.png">
-<img src="Bike_2.png">
-<img src="Group 1.png">
-<img src="Frame 2.png">
+<style>
+  .carousel {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+  }
+  .carousel img {
+    height: 300px;
+    width: auto;
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+  }
+</style>
+<div class="carousel">
+  <img src="Bike_1.png">
+  <img src="Bike_2.png">
+  <img src="Group 1.png">
+  <img src="Frame 2.png">
+</div>
 
 # What About Contacting You?
 You can contact me by sending a friend request on Discord to the account "vrs2210" or sending a message to be on Roblox under the same name.
