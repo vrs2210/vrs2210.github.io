@@ -7,4 +7,3 @@ A game made in a few hours then improved over a few days idly, it's a game where
 <img src="Bike_2.png">
 <img src="Group 1.png">
 <img src="Frame 2.png">
-<img src="Gun.png">
