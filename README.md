@@ -29,8 +29,10 @@ A game made in a few hours then improved over a few days idly, it's a game where
 
 ## Robotnik's Emerald Praise
 Due to Eclipse Animator having been released shortly before writing this post, I decided I wanted to experiment a did, so I whipped out a quick robotnik admiring the chaos emerald!
-<img src="Emerald.jxl" width="50%">
 I had a lot of issues when initially starting the Eclipse Animator plugin, as it interfered with some other settings I had, though eventually I successfully fixed it; a tip to people as it's not known, if you can't copy and paste, then undock the animator and it should work.
+
+<img src="Emerald.jxl" width="50%">
+
 
 # What About Contacting You?
 You can contact me by sending a friend request on Discord to the account "vrs2210" or sending a message to be on Roblox under the same name.
