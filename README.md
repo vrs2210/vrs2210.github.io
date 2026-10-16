@@ -27,6 +27,9 @@ A game made in a few hours then improved over a few days idly, it's a game where
   <img src="Frame 2.png">
 </div>
 
+## Robotnik's Emerald Praise
+<img src="Emerald.jxl">
+
 # What About Contacting You?
 You can contact me by sending a friend request on Discord to the account "vrs2210" or sending a message to be on Roblox under the same name.
 
